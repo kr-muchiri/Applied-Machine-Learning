@@ -44,4 +44,5 @@ This repository contains my solutions to the assignments for this course. Please
 - P4: Dry Beans
 - P5: Image Segmentation and Compression
 - Final Project
-Please note that the code in this repository is for reference only. Please do not copy or reproduce any part of the code without proper citation and permission.
+
+- Please note that the code in this repository is for reference only. Please do not copy or reproduce any part of the code without proper citation and permission.
