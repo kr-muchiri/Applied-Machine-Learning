@@ -1,7 +1,7 @@
 # Applied-Machine-Learning
 
-Applied Machine Learning - Student Repository
-Overview
+
+## Overview
 This repository contains my work and solutions for the Applied Machine Learning course offered by Centre College in the Spring of 2023. The course covers data science and advanced analytic tools, working with clients, exploratory data analysis, data preparation, model building, various machine learning methods, result analysis, and presentations using data visualization tools.
 
 ## Table of Contents
