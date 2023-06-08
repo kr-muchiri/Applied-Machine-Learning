@@ -1,3 +1,5 @@
+# Data Analytics Four Instructions
+
 - Download the archived folder (.zip file) from the UCI Machine Learning Repository
 - Unlike previous labs, there is no template for you to modify. Instead, create a Jupyter Notebook named dsc305_lab04_lastname_firstname.ipynb (with your last and first name)
 - Include a header cell with the level-one heading "Lab 4: Dry Beans Classification".
